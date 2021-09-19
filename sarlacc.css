@@ -1,0 +1,8 @@
+body {
+    size: 0vmax;
+    background: url(escape.jpg);
+} 
+h1 {text-align: center;}
+p{text-align: center;}
+h2 {text-align: center;}
+div {text-align: center; color: gold; font: bold}
